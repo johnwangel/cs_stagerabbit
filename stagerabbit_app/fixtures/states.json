@@ -1,0 +1,461 @@
+[
+    {
+        "fields":
+        {
+            "abbr": "AL",
+            "name": "Alabama"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "1"
+    },
+    {
+        "fields":
+        {
+            "abbr": "AK",
+            "name": "Alaska"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "2"
+    },
+    {
+        "fields":
+        {
+            "abbr": "AZ",
+            "name": "Arizona"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "3"
+    },
+    {
+        "fields":
+        {
+            "abbr": "AR",
+            "name": "Arkansas"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "4"
+    },
+    {
+        "fields":
+        {
+            "abbr": "CA",
+            "name": "California"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "5"
+    },
+    {
+        "fields":
+        {
+            "abbr": "CO",
+            "name": "Colorado"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "6"
+    },
+    {
+        "fields":
+        {
+            "abbr": "CT",
+            "name": "Connecticut"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "7"
+    },
+    {
+        "fields":
+        {
+            "abbr": "DE",
+            "name": "Delaware"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "8"
+    },
+    {
+        "fields":
+        {
+            "abbr": "DC",
+            "name": "District of Columbia"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "9"
+    },
+    {
+        "fields":
+        {
+            "abbr": "FL",
+            "name": "Florida"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "10"
+    },
+    {
+        "fields":
+        {
+            "abbr": "GA",
+            "name": "Georgia"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "11"
+    },
+    {
+        "fields":
+        {
+            "abbr": "HI",
+            "name": "Hawaii"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "12"
+    },
+    {
+        "fields":
+        {
+            "abbr": "ID",
+            "name": "Idaho"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "13"
+    },
+    {
+        "fields":
+        {
+            "abbr": "IL",
+            "name": "Illinois"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "14"
+    },
+    {
+        "fields":
+        {
+            "abbr": "IN",
+            "name": "Indiana"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "15"
+    },
+    {
+        "fields":
+        {
+            "abbr": "IA",
+            "name": "Iowa"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "16"
+    },
+    {
+        "fields":
+        {
+            "abbr": "KS",
+            "name": "Kansas"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "17"
+    },
+    {
+        "fields":
+        {
+            "abbr": "KY",
+            "name": "Kentucky"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "18"
+    },
+    {
+        "fields":
+        {
+            "abbr": "LA",
+            "name": "Louisiana"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "19"
+    },
+    {
+        "fields":
+        {
+            "abbr": "ME",
+            "name": "Maine"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "20"
+    },
+    {
+        "fields":
+        {
+            "abbr": "MD",
+            "name": "Maryland"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "21"
+    },
+    {
+        "fields":
+        {
+            "abbr": "MA",
+            "name": "Massachusetts"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "22"
+    },
+    {
+        "fields":
+        {
+            "abbr": "MI",
+            "name": "Michigan"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "23"
+    },
+    {
+        "fields":
+        {
+            "abbr": "MN",
+            "name": "Minnesota"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "24"
+    },
+    {
+        "fields":
+        {
+            "abbr": "MS",
+            "name": "Mississippi"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "25"
+    },
+    {
+        "fields":
+        {
+            "abbr": "MO",
+            "name": "Missouri"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "26"
+    },
+    {
+        "fields":
+        {
+            "abbr": "MT",
+            "name": "Montana"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "27"
+    },
+    {
+        "fields":
+        {
+            "abbr": "NE",
+            "name": "Nebraska"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "28"
+    },
+    {
+        "fields":
+        {
+            "abbr": "NV",
+            "name": "Nevada"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "29"
+    },
+    {
+        "fields":
+        {
+            "abbr": "NH",
+            "name": "New Hampshire"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "30"
+    },
+    {
+        "fields":
+        {
+            "abbr": "NJ",
+            "name": "New Jersey"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "31"
+    },
+    {
+        "fields":
+        {
+            "abbr": "NM",
+            "name": "New Mexico"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "32"
+    },
+    {
+        "fields":
+        {
+            "abbr": "NY",
+            "name": "New York"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "33"
+    },
+    {
+        "fields":
+        {
+            "abbr": "NC",
+            "name": "North Carolina"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "34"
+    },
+    {
+        "fields":
+        {
+            "abbr": "ND",
+            "name": "North Dakota"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "35"
+    },
+    {
+        "fields":
+        {
+            "abbr": "OH",
+            "name": "Ohio"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "36"
+    },
+    {
+        "fields":
+        {
+            "abbr": "OK",
+            "name": "Oklahoma"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "37"
+    },
+    {
+        "fields":
+        {
+            "abbr": "OR",
+            "name": "Oregon"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "38"
+    },
+    {
+        "fields":
+        {
+            "abbr": "PA",
+            "name": "Pennsylvania"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "39"
+    },
+    {
+        "fields":
+        {
+            "abbr": "RI",
+            "name": "Rhode Island"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "40"
+    },
+    {
+        "fields":
+        {
+            "abbr": "SC",
+            "name": "South Carolina"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "41"
+    },
+    {
+        "fields":
+        {
+            "abbr": "SD",
+            "name": "South Dakota"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "42"
+    },
+    {
+        "fields":
+        {
+            "abbr": "TN",
+            "name": "Tennessee"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "43"
+    },
+    {
+        "fields":
+        {
+            "abbr": "TX",
+            "name": "Texas"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "44"
+    },
+    {
+        "fields":
+        {
+            "abbr": "UT",
+            "name": "Utah"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "45"
+    },
+    {
+        "fields":
+        {
+            "abbr": "VT",
+            "name": "Vermont"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "46"
+    },
+    {
+        "fields":
+        {
+            "abbr": "VA",
+            "name": "Virginia"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "47"
+    },
+    {
+        "fields":
+        {
+            "abbr": "WA",
+            "name": "Washington"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "48"
+    },
+    {
+        "fields":
+        {
+            "abbr": "WV",
+            "name": "West Virginia"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "49"
+    },
+    {
+        "fields":
+        {
+            "abbr": "WI",
+            "name": "Wisconsin"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "50"
+    },
+    {
+        "fields":
+        {
+            "abbr": "WY",
+            "name": "Wyoming"
+        },
+        "model": "stagerabbit_app.statename",
+        "pk": "51"
+    }
+]

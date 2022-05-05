@@ -1,0 +1,63 @@
+{% load static %}
+{% load socialaccount %}
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>
+        {% block title %}
+        {% endblock %}
+    </title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css"> 
+    <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script> 
+    <link rel="stylesheet" href="{% static 'stagerabbit_app/css/main.css' %}">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> -->
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+            integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+            crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+        <div class="header">
+            <div class="hleft">
+                StageRabbit  
+                <div class="home"><i onclick="location='{% url "theaters" %}'" class="fa fa-home"></i></div>
+            </div>
+            <div class="hright">
+                <div class="search_field">
+                    <form action="/search" method="get">
+                        <input class="search_box" name="search_string" type="text"></input><button class="search_box" type="submit"><i class="fa fa-search"></i></button>
+                    </form>
+                </div>
+                <i id="menu1" class="fa fa-bars"></i>
+            </div>
+        </div>
+        <ul id="menu2" class="hidden">
+            {% if user.is_authenticated %}
+                <li class="noclick">Welcome {{ user.username }}</li>
+            {% endif %}
+            <li onclick="window.location='{% url 'theaters' %}'">Home</li>
+            {% if user.is_authenticated %}
+                <li onclick="window.location='{% url 'new_production' %}'">Add a Production</li>
+                <li onclick="window.location='{% url 'account_logout' %}'">Log Out</li>
+            {% else %}
+                <li onclick="location.href='{% provider_login_url 'github' %}'">Log In</li>
+            {% endif %}
+        </ul>
+        <img id='hero-1' src="{% static 'stagerabbit_app/images/theater.jpeg' %}" alt="stage"> 
+        <div class="main container">
+            {% block content %}
+            {% endblock %}
+        </div>
+    <script>
+
+        $(document).ready(function(){
+            $('#menu2').slideToggle(50);
+            $('#menu1').click( () => $('#menu2').slideToggle(500));
+        });
+     </script>
+</body>
+
+</html>

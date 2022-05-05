@@ -1,0 +1,90 @@
+body {
+    background-color: linen;
+    font-size: 14pt;
+    margin: 0;
+}
+
+.header {
+    background-color: navy;
+    height: 25px;
+    color: white;
+    padding: 20px 50px;
+    text-transform: uppercase;
+    font-size: 26px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header a {
+    text-decoration: none;
+}
+
+.home {
+    cursor: pointer;
+    color: white;
+}
+
+.main {
+    padding: 25px 25%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+    text-transform: uppercase;
+    color: navy;
+}
+
+h2 {
+    text-align: center;
+    color: navy;
+    font-size: 24px;
+}
+
+h3 {
+    border: 3px solid navy;
+    color: navy;
+    text-align: center;
+    padding: 20px;
+}
+
+h4 {
+    text-align: center;
+    color: navy;
+    text-transform: uppercase;
+}
+
+h5 {
+    font-size: 1.2em;
+    color: navy;
+    
+}
+
+#hero-1 {
+    width: 100vw;
+    height: 50vh;
+    object-fit: cover;
+}
+
+span.city {
+    font-size: .8em;
+    color: navy;
+}
+
+p {
+    color: black;
+    margin-left: 50px;
+}
+
+p.intro {
+    font-weight: bold;
+}
+
+.runin {
+    font-weight: bold;
+}
+.production {
+    margin: 25px 50px 75px;
+}

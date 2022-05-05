@@ -1,0 +1,20 @@
+{% extends 'stagerabbit_app/base.html' %}
+
+{% block title %}StageRabbit{% endblock %}
+
+{% block content %}
+  <div class="search_term">Results for &ldquo;{{term}}&rdquo;:</div>
+  {% if not prods %}
+    <div>Sorry, no productions found with that title</div>
+  {% else %}
+    {% for p in prods %}
+      <div class="search_result">
+        <div class="title">{{p.show | safe }}</div>
+        <div class="theater">{{p.theater__name | safe }}, {{p.theater__city | safe }}, {{p.theater__state__abbr}}</div>
+        <div class="dates">{{p.start_date}} to {{p.end_date}}</div>
+        <div class="venue">Venue: {{p.venue | safe }}</div>
+        <div class="description">{{p.description | safe }}</div>
+      </div>
+    {% endfor %}
+  {% endif %}
+{% endblock %}

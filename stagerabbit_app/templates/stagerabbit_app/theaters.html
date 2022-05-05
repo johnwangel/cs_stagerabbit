@@ -1,0 +1,14 @@
+{% extends 'stagerabbit_app/base.html' %}
+
+{% block title %}StageRabbit{% endblock %}
+
+{% block content %}
+    {% for state in states %}
+        <h1>{{state.state__name}}</h1>
+        {% for theater in theaters %}
+            {% if state.state__name == theater.state__name %}
+                <a href={% url 'productions' theater.id %}><h3>{{theater.name | safe }} <span class="city">({{theater.city}}, {{theater.state__abbr}})</span></h3></a>            
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+{% endblock %}

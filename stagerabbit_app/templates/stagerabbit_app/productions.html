@@ -1,0 +1,19 @@
+{% extends 'stagerabbit_app/base.html' %}
+
+{% block title %}StageRabbit{% endblock %}
+
+{% block content %}
+    {% for theater in prods %}
+        <h1 class="prod">{{theater.name | safe }}<br /> <span class="city">({{theater.city}}, {{theater.state}})</span></h1>
+        <h4>Productions:</h4>
+        {% for prod in theater.theaters.all %}
+            <div class="production">
+                <h5>{{ prod.show | safe }}</h5>
+                <p><span class='runin'>Venue:</span> {{ prod.venue }}</p>
+                <p><span class='runin'>Dates:</span> {{ prod.start_date }}&ndash;{{ prod.end_date }}</p>
+                {{prod.description | safe}}
+            </div>
+            
+        {% endfor %}
+    {% endfor %}
+{% endblock %}

@@ -1,0 +1,756 @@
+[
+    {
+        "theater_name": "The Orpheum Theatre",
+        "theater_id": 911,
+        "venue_id": 85,
+        "prods":
+        [
+            {
+                "title": "A Midsummer Night&rsquo;s Dream",
+                "author": "Rebecca Ellis",
+                "show_id": 1398,
+                "start_date": "2022-04-08",
+                "end_date": "2022-04-17",
+                "description": "<p>This adaptation of A Midsummer Night&rsquo;s Dream&mdash;Shakespeare&rsquo;s classic work of faeries, rustic actors, and love&mdash;comes to the Orpheum Theatre. This time, it is set in the fantastical vaudeville era of New York City, 1921. The Marriage of a prominent mobster approaches as two young couples and a bumbling troupe of would-be actors run into the faeries of the magical city. Hilarity, love, and magic ensues in this vaudevillian tale of transformations.</p>"
+            },
+            {
+                "title": "Lunch with Judy",
+                "author": "",
+                "show_id": 1399,
+                "start_date": "2022-04-22",
+                "end_date": "2022-04-24",
+                "description": "<p>The story of the life of Hollywood star, Judy Garland, as she befriends a stage hand who helps her through many joyful and traumatic life events. This is her life; beyond the rainbow and the ruby slippers.*This play contains adult language and content.</p>"
+            }
+        ]
+    },
+    {
+        "theater_name": "Portage Area Community Theatre",
+        "theater_id": 2534,
+        "venue_id": 2707,
+        "prods":
+        [
+            {
+                "title": "Radio Christmas: A Live Radio Play",
+                "author": "Pat Kruis Tellinghusen",
+                "show_id": 1400,
+                "start_date": "2022-04-08",
+                "end_date": "2022-04-17",
+                "description": "<p>This adaptation of A Midsummer Night&rsquo;s Dream&mdash;Shakespeare&rsquo;s classic work of faeries, rustic actors, and love&mdash;comes to the Orpheum Theatre. This time, it is set in the fantastical vaudeville era of New York City, 1921. The Marriage of a prominent mobster approaches as two young couples and a bumbling troupe of would-be actors run into the faeries of the magical city. Hilarity, love, and magic ensues in this vaudevillian tale of transformations.</p>"
+            }
+        ]
+    },
+    {
+        "theater_name": "Le Petit Theatre",
+        "theater_id": 3081,
+        "venue_id": 40,
+        "prods":
+        [
+            {
+                "title": "Choir Boy",
+                "show_id": 1348,
+                "start_date": "2022-06-16",
+                "end_date": "2022-06-26",
+                "description": "<p>The season continues with 2019 Tony Award nominee for Best Play, <i>Choir Boy</i>, written by Tarell Alvin McCraney, who won the 2017 Academy Award for his adapted screenplay of the film <i>Moonlight</i>. In the soaring, music-filled Choir Boy, the Charles R. Drew Prep School for Boys is dedicated to the creation of strong, ethical black men. Pharus wants nothing more than to take his rightful place as leader of the school&rsquo;s legendary gospel choir. Can he find his way inside the hallowed halls of this institution if he sings in his own key?</p>"
+            }
+        ]
+    },
+    {
+        "theater_name": "The Academy Theatre",
+        "theater_id": 3805,
+        "venue_id": 3390,
+        "prods":
+        [
+            {
+                "title": "Peter Pan",
+                "author": "",
+                "show_id": 131,
+                "start_date": "2022-04-15",
+                "end_date": "20220-05-08",
+                "description": "<p>Peter Pan tells the classic J.M. Barrie tale of a young boy who refuses to grow up. On a quest to find stories with which to entertain his young cohorts in Neverland -- an island refuge for &ldquo;Lost Boys&rdquo; -- Peter returns to the real world and meets Wendy, Michael, and John Darling. The Darling children accompany Peter back to the magical Neverland, where they learn to fly, get involved in all sorts of adventures, defeat the evil Captain Hook, and are changed forever. J.M. Barrie &rsquo;s masterful story shines especially brightly with a rich score that includes such beloved songs as &ldquo;Tender Shepherd,&rdquo; &ldquo;Never Never Land&rdquo; and &ldquo;Distant Melody.&rdquo; A delightful musical featuring singing pirates, daring swordfights, and fantastical make-believe, Peter Pan is a story that is filled with magic, delight, and just a fairy dusting of heartbreak.</p>"
+            },
+            {
+                "title": "Mamma Mia!",
+                "author": "",
+                "show_id": 202,
+                "start_date": "2022-06-10",
+                "end_date": "2022-06-26",
+                "description": "<p>ABBA&rsquo;s hits tell the hilarious story of a young woman&rsquo;s search for her birth father. This sunny and funny tale unfolds on a Greek island paradise. On the eve of her wedding, a daughter&rsquo;s quest to discover the identity of her father brings three men from her mother&rsquo;s past back to the island they last visited 20 years ago.</p>"
+            }
+        ]
+    },
+    {
+        "theater_name": "Lagniappe Theatre Company",
+        "theater_id": 3075,
+        "venue_id": 36,
+        "prods":
+        [
+            {
+                "title": "The Wizard of Oz",
+                "author": "",
+                "show_id": 27,
+                "start_date": "2022-09-22",
+                "end_date": "2022-09-25",
+                "description": "<p>It&rsquo;s Back by Popular Demand!  Follow the yellow brick road in this delightful stage adaptation of L. Frank Baum&rsquo;s beloved tale, featuring the iconic musical score from the MGM film. The timeless tale, in which young Dorothy Gale travels from Kansas via tornado and over the rainbow to the magical Land of Oz, continues to thrill audiences worldwide.</p>"
+            },
+            {
+                "title": "Guys and Dolls",
+                "author": "",
+                "show_id": 30,
+                "start_date": "2022-07-14",
+                "end_date": "2022-07-17",
+                "description": "<p>Set in Damon Runyon&rsquo;s mythical New York City, Guys and Dolls is an oddball romantic comedy. Gambler, Nathan Detroit, tries to find the cash to set up the biggest craps game in town while the authorities breathe down his neck; meanwhile, his girlfriend and nightclub performer, Adelaide, laments that they&rsquo;ve been engaged for fourteen years. Nathan turns to fellow gambler, Sky Masterson, for the dough, and Sky ends up chasing the straight-laced missionary, Sarah Brown, as a result. Guys and Dolls takes us from the heart of Times Square to the cafes of Havana, Cuba, and even into the sewers of New York City, but eventually everyone ends up right where they belong.  Featuring the Famous songs Luck Be A Lady and If I Were a Bell.  Don&rsquo;t miss it!</p>"
+            },
+            {
+                "title": "Rudolph the Red Nosed Reindeer Jr.",
+                "author": "",
+                "show_id": 1401,
+                "start_date": "2022-11-11",
+                "end_date": "2022-11-13",
+                "description": "<p>Rudolph The Red-Nosed Reindeer JR. is based on the animated television special &ldquo;Rudolph the Red-Nosed Reindeer&rdquo;adapted from a story by Robert L. May featuring music and lyrics by Johnny Marks. The musical tells the story of Rudolph, a young reindeer born with a very shiny nose (some might even say it glows). Thinking only &ldquo;normal&rdquo; reindeer have a chance to make the elite team pulling Santa &rsquo;s sleigh, Rudolph &rsquo;s parents encourage their young buck to conceal his blinking beacon. When Rudolph &rsquo;s peers and superiors discover his secret, the reindeer is snubbed by his community and excluded from participating in the very reindeer games that train Santa &rsquo;s sled team. Downcast, Rudolph meets a young Elf named Hermey who doesn &rsquo;t fit in either. Hermey dreams of someday becoming a dentist instead of working in Santa &rsquo;s toyshop, which is what everyone expects of him. The two misfits set out on an adventure, find fellowship with other outcasts, and return home to the North Pole just as foul weather threatens to cancel Christmas. Everyone must work together</p>"
+            }
+        ]
+    },
+    {
+        "theater_name": "Pickleville Playhouse Theatre",
+        "theater_id": 2322,
+        "venue_id": 275,
+        "prods":
+        [
+            {
+                "title": "New Sheriff in Town: A Rip-Roarin&rsquo; Musical Melodrama ",
+                "author": "",
+                "show_id": 1402,
+                "start_date": "2022-05-27",
+                "end_date": "2022-09-05",
+                "description": "<p>From the creators of our 2021 smash hit, <i>Becoming A Bona Fide Bad Guy</i>, Pickleville proudly presents our brand-new, rip-roarin&rsquo;, modern musical melodrama: <i>New Sheriff In Town</i>! When two mismatched brothers inherit a rundown local saloon, fixing the leaky roof isn&rsquo;t their only problem. Their business seems to be a hotspot for heists, hold-ups, and all sorts of outrageous outlaw tomfoolery. To top it all off there&rsquo;s an incompetent new female sheriff in town who ain&rsquo;t doin&rsquo; nothin&rsquo; about it! Bereft and vengeful, the brothers determine to take matters into their own hands. Enlisting the help of the blundering sheriff, they begin hunting down each and every wanted criminal who has wronged them in pursuit of the reward money for their capture or demise. The tables turn quickly as something starts smelling fishy along their quest. Filled with loads of fresh music, a barrel of belly laughs, and a plot-twist that will leave you gasping for days, this hysterical and heartfelt production is sure to be the highlight of your family&rsquo;s summer!</p>"
+            },
+            {
+                "title": "Peter Pan",
+                "author": "",
+                "show_id": 131,
+                "start_date": "2022-06-13",
+                "end_date": "2022-08-23",
+                "description": "<p>Peter Pan tells the timeless tale of a boy who refused to grow up. On a quest to collect stories for his fellow Lost Boys of Neverland, Peter returns to the real world where he meets Wendy, Michael, and John Darling. The Darling children fly with Peter back to Neverland, embarking on an epic adventure. They get into all sorts of mischief, grapple with Neverland-natives, defeat the evil Captain Hook, and learn the importance of never growing up! J.M. Barrie&rsquo;s masterful story shines especially bright with an unforgettable musical score including such beloved songs as &ldquo;I Gotta Crow,&rdquo; &ldquo;Neverland&rdquo;, and &ldquo;I Won&rsquo;t Grow Up&rdquo;. Featuring singing pirates, daring sword fights, and the unparalleled magic of make-believe, Pickleville&rsquo;s Peter Pan is a must-see production that&rsquo;s sure to mystify the entire family!</p>"
+            },
+            {
+                "title": "Disney&rsquo;s Beauty and the Beast",
+                "author": "",
+                "show_id": 34,
+                "start_date": "2022-06-21",
+                "end_date": "2022-08-19",
+                "description": "<p>Experience the magic of this award-winning Broadway musical sensation in a way you&rsquo;ve never seen it before. Based on the classic 1991 Disney film, &ldquo;Beauty and the Beast&rdquo; tells the story of Belle, a beautiful and intelligent young woman whose father is suddenly imprisoned in a mysterious castle. Belle&rsquo;s attempt to rescue him leads to her being captured by the Beast, a hideous creature, who was long-ago trapped in his gruesome form by an enchantress. The only way for him to lift the curse: learn to love and be loved in return. But time is running out.Keep an eye out for such beloved characters as Lumiere, Cogsworth, and Mrs. Potts as they help Belle and the Beast grow to understand and befriend one another. Brimming with talent, laughs, and more than a handful of Disney&rsquo;s most memorable musical masterpieces, Pickleville&rsquo;s sparkling production of Beauty and the Beast is a must-see for the entire family!</p>"
+            },
+            {
+                "title": "The Addams Family",
+                "author": "",
+                "show_id": 40,
+                "start_date": "2022-06-13",
+                "end_date": "2022-08-23",
+                "description": "<p>Join the thousands that have made our annual fall production their favorite Halloween tradition. Complete with fall-themed concessions, our spookified log-cabin theater, and a talent-packed cast of Pickleville veterans, this whole experience is one you WILL NOT WANT TO MISS! Brought to you in traditional Pickleville style, <i>The Addams Family</i> is a fast-paced, hysterical, family-friendly musical featuring Gomez, Morticia, Wednesday, and all of your favorite Addams Family characters. Take a drive through the hauntingly gorgeous Logan canyon this fall and join us for what has been described as one of Pickleville&rsquo;s more hilarious and outstanding productions of all time! Get your tickets today - and if you don&rsquo;t we&rsquo;ll kill you.</p>"
+            }
+        ]
+    },
+    {
+        "theater_name": "Weiser Little Theater",
+        "theater_id": 914,
+        "venue_id": 86,
+        "prods":
+        [
+            {
+                "title": "Steel Magnolias",
+                "author": "",
+                "show_id": 57,
+                "start_date": "2022-04-01",
+                "end_date": "2022-04-23",
+                "description": "<p>The action is set in Truvy&rsquo;s beauty salon in Chinquapin, Louisiana, where all the ladies who are &ldquo;anybody&rdquo; come to have their hair done. Helped by her eager new assistant, Annelle (who is not sure whether or not she is still married), the outspoken, wise-cracking Truvy dispenses shampoos and free advice to the town&rsquo;s rich curmudgeon, Ouiser, (&ldquo;I&rsquo;m not crazy, I&rsquo;ve just been in a bad mood for forty years&rdquo;); an eccentric millionaire, Miss Clairee, who has a raging sweet tooth; and the local social leader, M&rsquo;Lynn, whose daughter, Shelby (the prettiest girl in town), is about to marry a &ldquo;good ole boy.&rdquo; Filled with hilarious repartee and not a few acerbic but humorously revealing verbal collisions, the play moves toward tragedy when, in the second act, the spunky Shelby (who is a diabetic) risks pregnancy and forfeits her life. The sudden realization of their mortality affects the others, but also draws on the underlying strength—and love—which give the play, and its characters, the special quality to make them truly touching, funny and marvelously amiable company in good times and bad.</p>"
+            }
+        ]
+    },
+    {
+        "theater_name": "South Baldwin Community Theatre",
+        "theater_id": 53,
+        "venue_id": 68,
+        "prods":
+        [
+            {
+                "title": "The Enchanted Bookshop",
+                "author": "",
+                "show_id": 1403,
+                "start_date": "2022-04-01",
+                "end_date": "2022-04-10",
+                "description": "<p>During the day, A Likely Story may look like any other used bookstore.  But at night, it &rsquo;s a place where magic happens.  That &rsquo;s when the characters inside the books come alive. Six of those characters — Dorothy Gale, Robin Hood, Pollyanna, Sherlock Holmes, Heidi, and Tom Sawyer — long to help Margie, the scatterbrained owner, save her struggling store.  But they &rsquo;re not allowed to leave the building or be seen by human eyes.  So when a pair of smugglers comes looking for a stolen necklace hidden inside one of the books, the characters are torn.  Should they warn Margie and risk disappearing forever?  Or can they find a way to defeat the crooks without being seen? Featuring additional appearances by such beloved literary characters as the Queen of Hearts, Long John Silver, and Doctor Dolittle, this charming comedy celebrates the joy of reading in a fresh, fun-filled way.</p>"
+            },
+            {
+                "title": "Southern Sirens",
+                "author": "",
+                "show_id": 1404,
+                "start_date": "2022-05-06",
+                "end_date": "2022-05-15",
+                "description": "<p></p>"
+            }
+        ]
+    },
+    {
+        "theater_name": "Detroit Repertory Theatre",
+        "theater_id": 1339,
+        "venue_id": 2254,
+        "prods":
+        [
+            {
+                "title": "Asking Strangers the Meaning of Life",
+                "author": "",
+                "show_id": 1405,
+                "start_date": "2022-02-25",
+                "end_date": "2022-04-03",
+                "description": "<p>A man claiming to be Franz Kafka has a near-death experience comically interrupted by a parade of strangers all seeking the answers to life &rsquo;s deepest questions.</p>"
+            },
+            {
+                "title": "Fairview",
+                "author": "",
+                "show_id": 1406,
+                "start_date": "2022-06-03",
+                "end_date": "2022-07-31",
+                "description": "<p>At the Frasier household, preparations for Grandma &rsquo;s birthday party are underway, Beverly is holding on to her sanity by a thread to make sure this party is perfect, but her sister is drinking, her husband can &rsquo;t seem to listen, her brother is MIA, her daughter is a teenager and maybe nothing is what it seems in the first place...</p>"
+            },
+            {
+                "title": "Night Blooming",
+                "author": "",
+                "show_id": 1407,
+                "start_date": "2022-04-15",
+                "end_date": "2022-05-22",
+                "description": "<p>A nomadic Arapaho Native American grandmother reclaims three afflicted generations from the New Mexico desert: her abandoned daughter, her precocious grandchild -- and her wandering self.</p>"
+            }
+        ]
+    },
+    {
+        "theater_name": "Albright Community Theatre",
+        "theater_id": 920,
+        "venue_id": 87,
+        "prods":
+        [
+            {
+                "title": "A Midsummer Nights Dream",
+                "author": "",
+                "show_id": 49,
+                "start_date": "2022-04-15",
+                "end_date": "2022-04-30",
+                "description": "<p>The plight of four young lovers spills deep into the forest, catching the attention of the fairies who reside there.  Unknown to them, the king and queen of the fairies are feuding – a feud that will entangle the lovers as well as a troupe of amateur actors in chaos and confusion reminding us all that the course of true love never did run smoothly.</p>"
+            },
+            {
+                "title": "Rumors",
+                "author": "",
+                "show_id": 59,
+                "start_date": "2022-06-10",
+                "end_date": "2022-05-25",
+                "description": "<p>At a large, tastefully-appointed Sneden&rsquo;s Landing townhouse, the Deputy Mayor of New York has just shot himself. Though only a flesh wound, four couples are about to experience a severe attack of Farce. Gathering for their tenth wedding anniversary, the host lies bleeding in the other room, and his wife is nowhere in sight. His lawyer, Ken, and wife, Chris, must get &ldquo;the story&rdquo; straight before the other guests arrive. As the confusions and mis-communications mount, the evening spins off into classic farcical hilarity.</p>"
+            },
+            {
+                "title": "Columbinus",
+                "author": "",
+                "show_id": 1408,
+                "start_date": "2022-08-05",
+                "end_date": "2022-08-20",
+                "description": "<p>Inspired by the 1999 massacre at Columbine High School, a blending of fact and fiction, illuminates the realities of adolescent culture by exploring the events surrounding the shootings. Excerpts from discussions with parents, survivors and community leaders in Littleton as well as police evidence bring to light the dark recesses of American adolescence. </p>"
+            },
+            {
+                "title": "The Mystery of Irma Vep:A Penny Dreadful",
+                "author": "",
+                "show_id": 1377,
+                "start_date": "2022-10-01",
+                "end_date": "2022-10-15",
+                "description": "<p>This definitive spoof of Gothic melodramas is a quick-change marathon in which two actors play all the roles. The many inhabitants of the brooding mansion called Mandacrest are joined by a sympathetic werewolf, a vampire, and an Egyptian princess brought to life when her tomb is opened to make this a comedy that has everything. </p>"
+            },
+            {
+                "title": "A Christmas Carol ",
+                "author": "",
+                "show_id": 207,
+                "start_date": "2022-12-02",
+                "end_date": "2022-12-11",
+                "description": "<p>A Christmas Carol recounts the story of Ebenezer Scrooge, an elderly miser who is visited by the ghost of his former business partner Jacob Marley and the spirits of Christmas Past, Present and Christmas Yet to Come. Revisit this classic story as we offer a darker modern twist. Will Scrooge see the error of his ways or is it too late?</p>"
+            }
+        ]
+    },
+    {
+        "theater_name": "Center Stage Theatre",
+        "theater_id": 530,
+        "venue_id": 73,
+        "prods":
+        [
+            {
+                "title": "LOST IN YONKERS",
+                "author": "",
+                "show_id": 417,
+                "start_date": "2022-04-22",
+                "end_date": "2022-05-01",
+                "description": "<p>By America&rsquo;s great comic playwright, this memory play is set in Yonkers in 1942. Bella is thirty-five years old, mentally challenged, and living at home with her mother, stern Grandma Kurnitz. As the play opens, ne&rsquo;er-do-well son Eddie deposits his two young sons on the old lady&rsquo;s doorstep. He is financially strapped and taking to the road as a salesman. The boys are left to contend with Grandma, with Bella and her secret romance, and with Louie, her brother, a small-time hoodlum in a strange new world called Yonkers.</p>"
+            },
+            {
+                "title": "FOOTLOOSE",
+                "author": "",
+                "show_id": 229,
+                "start_date": "2022-07-22",
+                "end_date": "2022-07-31",
+                "description": "<p>When Ren and his mother move from Chicago to a small farming town, he is prepared for the inevitable adjustment period at his new high school. But he &rsquo;s not prepared for the rigorous local edicts, including a ban on dancing instituted by the local preacher, who is determined to exercise control over the town &rsquo;s youth. When the reverend &rsquo;s rebellious daughter sets her sights on Ren, her roughneck boyfriend tries to sabotage Ren &rsquo;s reputation, with many of the locals eager to believe the worst about the new kid. The heartfelt story that emerges pins a father longing for the son he lost against a young man aching for the father who walked out on him.</p><p>To the rockin &rsquo; rhythm of its Oscar and Tony-nominated Top Forty score, augmented with dynamic new songs, Footloose celebrates the wisdom of listening to young people while guiding them with a warm heart and open mind.</p>"
+            },
+            {
+                "title": "THE MARVELOUS WONDERETTES: DREAM ON",
+                "author": "",
+                "show_id": 1428,
+                "start_date": "2022-10-14",
+                "end_date": "2022-10-23",
+                "description": "<p>This is the fourth show in the WONDERETTES Series!</p><p>It &rsquo;s 1969, and The Marvelous Wonderettes are back at Springfield High (Go Chipmunks!) to throw a retirement party for their favorite homeroom teacher. As the girls sing their way through the greatest girl-group hits of the &rsquo;60s and bid Ms. McPherson a fond farewell, one of the Wonderettes reveals she &rsquo;ll also be saying goodbye to search for success and happiness on her own. Act II finds the girls back together as the class of 1958 celebrates their 20-year reunion. The classic pop and rock hits of the &rsquo;70s provide the perfect soundtrack for these old friends to catch up on the places life has led them, all performed with their own marvelous spin!</p>"
+            },
+            {
+                "title": "MEET ME IN ST. LOUIS",
+                "author": "",
+                "show_id": 509,
+                "start_date": "2022-12-02",
+                "end_date": "2022-12-11",
+                "description": "<p>It is the summer of 1903, and everyone in the Smith family eagerly anticipates the opening of the 1904 World &rsquo;s Fair. Over the course of a year, the family&rsquo;s mutual respect, tempered with good-natured humor, helps them through romance, opportunity, and heartbreaks. The musical includes seven of the best-loved songs from the film, plus ten additional Martin and Blane songs written specially for the stage. Memorable musical numbers include &ldquo;Have Yourself a Merry Little Christmas,&rdquo; &ldquo;The Boy Next Door,&rdquo; &ldquo;The Trolley Song,&rdquo; and &ldquo;Whenever I &rsquo;m with You.&rdquo;</p>"
+            }
+        ]
+    },
+    {
+        "theater_name": "The Fenton Village Players",
+        "theater_id": 1400,
+        "venue_id": 3786,
+        "prods":
+        [
+            {
+                "title": "Southern Fried Funeral",
+                "author": "",
+                "show_id": 1404,
+                "start_date": "2022-04-21",
+                "end_date": "2022-05-01",
+                "description": "<p>Dewey Frye is dead and the rest of his family is left to pick up the pieces -- that is if they don&rsquo;t kill each other first. Not only does matriarch Dorothy have to contend with sudden widowhood, but she&rsquo;s also faced with church-committee harpy Ozella Meeks sticking her nose in the family business, Dewey&rsquo;s snake-in-the-grass brother making a grab for her house, and two grown daughters reliving their childhood rivalry. Funerals bring out the worst, the best, and the funniest in people, and the Fryes are no exception. A big-hearted comedy about family -- Southern-style.</p>"
+            },
+            {
+                "title": "Monty Python&rsquo;s Spamalot!",
+                "author": "",
+                "show_id": 486,
+                "start_date": "2022-07-14",
+                "end_date": "2022-07-31",
+                "description": "<p>This 2005 Tony Award winner for Best Musical is a musical comedy &ldquo;lovingly ripped off&rdquo; from the 1975 film &ldquo;Monty Python and the Holy Grail.&rdquo;</p><p>King Arthur is traveling around England recruiting his Knights of the Round Table. When he and his band of misfit knights finally gather in Camelot, they receive a charge from God to find the Holy Grail. The quest brings King Arthur and the Knights of the Round Table to strange places and into the company of strange characters, challenging them to keep their heads on straight or die terribly weird deaths.</p>"
+            },
+            {
+                "title": "Annie",
+                "author": "",
+                "show_id": 67,
+                "start_date": "2022-05-13",
+                "end_date": "2022-05-29",
+                "description": "<p></p>"
+            },
+            {
+                "title": "Footloose",
+                "author": "",
+                "show_id": 229,
+                "start_date": "2022-09-12",
+                "end_date": "2022-09-14",
+                "description": "<p></p>"
+            }
+        ]
+    },
+    {
+        "theater_name": "West Valley Light Opera",
+        "theater_id": 4290,
+        "venue_id": 8660,
+        "prods":
+        [
+            {
+                "title": "Legally Blonde",
+                "author": "",
+                "show_id": 75,
+                "start_date": "2022-06-24",
+                "end_date": "2022-07-23",
+                "description": "<p>Completing our season is a South Bay Premiere, a fun and upbeat musical based on the novel &ldquo;Legally Blonde&rdquo; by Amanda Browne and the 2001 film of the same name. It tells the story of Elle Woods, a sorority girl who enrolls at Harvard Law School to win back her ex-boyfriend, Warner, and discovers how her knowledge of law can help others. The musical premiered in pre-Broadway tryouts in San Francisco in 2007 before moving to Broadway. It received 7 Tony nominations and 10 Drama Desk nominations. It has since toured throughout the USA, London, and other countries. The score includes &ldquo;Omigod You Guys&rdquo;, &ldquo;What You Want&rdquo;, &ldquo;Positive&rdquo;, &ldquo;Delta Nu Nu Nu&rdquo;, &ldquo;Find My Way&rdquo; and the title song.</p>"
+            }
+        ]
+    },
+    {
+        "theater_name": "Stone Arch Players",
+        "theater_id": 2066,
+        "venue_id": 2415,
+        "prods":
+        [
+            {
+                "title": "Beau Jest",
+                "author": "",
+                "show_id": 1410,
+                "start_date": "2022-05-06",
+                "end_date": "2022-05-22",
+                "description": "<p>Sarah is a nice Jewish girl with a problem: her parents want her married to a nice Jewish boy. She tells them she is dating a Jewish doctor and they insist on meeting him. Over the heated protests of her not-a-doctor boyfriend, she plans a dinner party and employs an escort service to send her a Jewish date-to-be. Instead, they send Bob Schroeder, an aspiring actor who agrees to perform the impersonation. Happily, he is extremely convincing in the role and Sarah &rsquo;s parents, and Sarah, are enraptured.</p>"
+            }
+        ]
+    },
+    {
+        "theater_name": "SALT Performing Arts",
+        "theater_id": 4428,
+        "venue_id": 8705,
+        "prods":
+        [
+            {
+                "title": "SEUSSICAL THE MUSICAL",
+                "author": "",
+                "show_id": 41,
+                "start_date": "2022-04-15",
+                "end_date": "2022-05-02",
+                "description": "<p> Now one of the most performed shows in America, Seussical is a fantastical, magical, musical extravaganza! Tony winners have lovingly brought to life all of our favorite Dr. Seuss characters, including Horton the Elephant, The Cat in the Hat, Gertrude McFuzz, lazy Mayzie and a little boy with a big imagination – Jojo. The colorful characters transport us from the Jungle of Nool to the Circus McGurkus to the invisible world of the Whos. Seussical is perfect for the whole family!</p>"
+            }
+        ]
+    },
+    {
+        "theater_name": "Sierra Repertory Theatre",
+        "theater_id": 416,
+        "venue_id": 390,
+        "prods":
+        [
+            {
+                "title": "Ramblin&rsquo; Rose",
+                "author": "",
+                "venue": "The Annex",
+                "show_id": 1427,
+                "start_date": "2022-03-31",
+                "end_date": "2022-04-10",
+                "description": "<p>Country music from legendary ladies takes center stage!</p>"
+            },
+            {
+                "title": "Steel Magnolias",
+                "author": "",
+                "venue": "East Sonora Theatre",
+                "show_id": 57,
+                "start_date": "2022-04-14",
+                "end_date": "2022-05-15",
+                "description": "<p>We &rsquo;ll see you at Truvy &rsquo;s Beauty Shop where anyone who &rsquo;s anyone gets their hair done. Steel Magnolias is an American favorite featuring a cast of sassy southern ladies whose hearts are as big as their hairdos.The hilarious and heartwarming story of six Southern women who gather and gossip at the local beauty parlor. With wit, warmth, and intelligence, they rise to meet whatever challenges life sends their way.</p>"
+            },
+            {
+                "title": "Disney&rsquo;s The Little Mermaid",
+                "author": "",
+                "venue": "Fallon House Theatre",
+                "show_id": 161,
+                "start_date": "2022-06-02",
+                "end_date": "2022-07-17",
+                "description": "<p>In a magical kingdom beneath the sea, the beautiful young mermaid, Ariel, longs to leave her ocean home to live in the world above. </p>"
+            },
+            {
+                "title": "A Tribute to Carole King",
+                "author": "",
+                "venue": "The Annex ",
+                "show_id": 1411,
+                "start_date": "2022-06-16",
+                "end_date": "2022-06-26",
+                "description": "<p>Don&rsquo;t miss Yesenia&rsquo;s beautiful recreation of Carole King&rsquo;s seminal album &ldquo;Tapestry&rdquo;.</p>"
+            },
+            {
+                "title": "Sh-Boom! Life Could Be A Dream",
+                "author": "",
+                "venue": "East Sonora Theatre",
+                "show_id": 1412,
+                "start_date": "2022-07-28",
+                "end_date": "2022-08-28",
+                "description": "<p>Meet Denny and the Dreamers, a fledgling doo-wop singing group preparing to enter the Big Whopper Radio contest to realize their dreams of making it to the big time!</p>"
+            },
+            {
+                "title": "Dogfight",
+                "author": "",
+                "venue": "Fallon House Theatre",
+                "show_id": 1413,
+                "start_date": "2022-09-01",
+                "end_date": "2022-10-02",
+                "description": "<p>A young soldier learns the power of compassion when he plays a cruel joke on an unsuspecting girl.</p>"
+            },
+            {
+                "title": "Elf: The Musical",
+                "author": "",
+                "venue": "East Sonora Theatre   ",
+                "show_id": 217,
+                "start_date": "2022-11-03",
+                "end_date": "2022-12-18",
+                "description": "<p>Based on the beloved holiday film, this hilarious fish-out-of-water comedy follows Buddy the Elf in his quest to find his true identity. </p>"
+            },
+            {
+                "title": "Foundling",
+                "author": "",
+                "venue": "Fallon House Theatre",
+                "show_id": 1414,
+                "start_date": "2022-11-17",
+                "end_date": "2022-12-18",
+                "description": "<p>Inspired by the stories of Bret Harte, The Christmas Foundling is a heartwarming holiday tale, with the love of a child at its center and an unlikely romance as its driving force.</p>"
+            }
+        ]
+    },
+    {
+        "theater_name": "Germantown Community Theatre",
+        "theater_id": 2152,
+        "venue_id": 205,
+        "prods":
+        [
+            {
+                "title": "Bright Star",
+                "author": "",
+                "show_id": 157,
+                "start_date": "2022-04-22",
+                "end_date": "202-05-08",
+                "description": "<p></p>"
+            },
+            {
+                "title": "Smoke on the Mountain",
+                "author": "",
+                "show_id": 644,
+                "start_date": "2022-09-09",
+                "end_date": "2022-09-25",
+                "description": "<p></p>"
+            },
+            {
+                "title": "Spamalot",
+                "author": "",
+                "show_id": 486,
+                "start_date": "2023-03-03",
+                "end_date": "2023-03-19",
+                "description": "<p></p>"
+            },
+            {
+                "title": "Outside Mullingar",
+                "author": "",
+                "show_id": 628,
+                "start_date": "2022-03-17",
+                "end_date": "2022-03-27",
+                "description": "<p></p>"
+            },
+            {
+                "title": "Hundred Days",
+                "author": "",
+                "show_id": 1415,
+                "start_date": "2022-05-27",
+                "end_date": "2022-06-12",
+                "description": "<p></p>"
+            },
+            {
+                "title": "Wit",
+                "author": "",
+                "show_id": 1416,
+                "start_date": "2023-01-20",
+                "end_date": "2023-02-05",
+                "description": "<p></p>"
+            },
+            {
+                "title": "Pride and Prejudice",
+                "author": "",
+                "show_id": 1417,
+                "start_date": "2022-04-14",
+                "end_date": "2022-05-30",
+                "description": "<p></p>"
+            }
+        ]
+    },
+    {
+        "theater_name": "Krider Performing Arts Center",
+        "theater_id": 2161,
+        "venue_id": 2478,
+        "prods":
+        [
+            {
+                "title": "Matilda",
+                "author": "",
+                "show_id": 311,
+                "start_date": "2022-04-01",
+                "end_date": "2022-04-09",
+                "description": "<p>The story of an extraordinary girl who dares to take a stand and change her own destiny. Inspired by the twisted genius of Roald Dahl, the Tony Award-winning Roald Dahl&rsquo;s Matilda The Musical is the captivating masterpiece from the Royal Shakespeare Company that revels in the anarchy of childhood, the power of imagination and the inspiring story of a girl who dreams of a better life.</p>"
+            }
+        ]
+    },
+    {
+        "theater_name": "Springhouse Theatre Company",
+        "theater_id": 2170,
+        "venue_id": 876,
+        "prods":
+        [
+            {
+                "title": "Anne of Green Gables",
+                "author": "Robinette",
+                "show_id": 1418,
+                "start_date": "2022-04-22",
+                "end_date": "2022-05-01",
+                "description": "<p>The orphan Anne Shirley comes to live with an older couple (brother and sister) in the small town of Avonlea on Prince Edward Island. Anne is eager, earnest, smart, and disaster-prone. Everyone who comes into contact with Anne is changed, and for the better.</p>"
+            }
+        ]
+    },
+    {
+        "theater_name": "The Belmont Theatre",
+        "theater_id": 3806,
+        "venue_id": 3806,
+        "prods":
+        [
+            {
+                "title": "STEEL MAGNOLIAS",
+                "author": "",
+                "show_id": 57,
+                "start_date": "2022-04-22",
+                "end_date": "2022-05-01",
+                "description": "<p>The action is set in Truvy&rsquo;s beauty salon in Chinquapin, Louisiana, where all the ladies who are &ldquo;anybody&rdquo; come to have their hair done. Helped by her eager new assistant, Annelle, the outspoken, wise-cracking Truvy dispenses shampoos and free advice to the town&rsquo;s rich curmudgeon, Ouiser; an eccentric millionaire, Miss Clairee, who has a raging sweet tooth; and the local social leader, M&rsquo;Lynn, whose daughter, Shelby , is about to marry a &ldquo;good ole boy.&rdquo; Filled with hilarious repartee and not a few acerbic but humorously revealing verbal collisions, the play moves toward tragedy when the spunky Shelby (who is a diabetic) risks pregnancy and forfeits her life. The sudden realization of their mortality affects the others, but also draws on the underlying strength—and love—which give the play, and its characters, the special quality to make them truly touching, funny and marvelously amiable company in good times and bad.</p>"
+            },
+            {
+                "title": "The Barstools GO BACK TO THE FUTURE",
+                "author": "",
+                "show_id": 1419,
+                "start_date": "2022-04-07",
+                "end_date": "2022-04-09",
+                "description": "<p>The Bar Stools Go Back To The Future is a hilarious musical spoof – If I Could Turn Back Time – performed by The Bar Stools, an acting ensemble comprised of members of the York County Bar Association. In Act I, Dr. Brown, Marty McLaw, and the cast go back in time to pre-pandemic days of practicing law. Act II covers the challenges, progress, and changes as they return to present day. The Bar Stools are modeled after The Capitol Steps, who originally began as a group of Senate staffers who set out to satirize the very people and places that employed them in Washington, D.C.</p>"
+            },
+            {
+                "title": "Hello Dolly",
+                "author": "",
+                "show_id": 104,
+                "start_date": "2022-06-10",
+                "end_date": "2022-06-19",
+                "description": "<p>York Little Theatre was the first theatre invited to perform this show after it&rsquo;s initial Broadway run back in the day! The Belmont is proud to bring back this musical adaptation of Thornton Wilder&rsquo;s hit play &ldquo;The Matchmaker.&rdquo; The show bursts with humor, romance, energetic dance, and some of the greatest songs in musical theatre history. The romantic and comic exploits of Dolly Gallagher-Levi, turn-of-the-century matchmaker and woman who arranges things, are certain to thrill and entertain. The show&rsquo;s unforgettable songs include &ldquo;Put On Your Sunday Clothes,&rdquo; &ldquo;Before The Parade Passes By,&rdquo; &ldquo;Hello, Dolly!,&rdquo; &ldquo;It Only Takes a Moment,&rdquo; and more!</p>"
+            },
+            {
+                "title": "THE ELEPHANT MAN",
+                "author": "",
+                "show_id": 832,
+                "start_date": "2022-08-05",
+                "end_date": "2022-08-14",
+                "description": "<p>Joseph Merrick is a man so physically deformed that he became known as the &ldquo;Elephant Man.&rdquo; With very few options open to him, Merrick (whose first name is John in Pomerance &rsquo;s play) is forced to display himself to the public in travelling sideshows. Eventually, however, he finds himself alone and destitute in London. Due to the kindness of one Dr. Frederick Treves, Merrick is soon admitted into the London Hospital for care and observation. Treves becomes determined to help Merrick lead a normal life, and Merrick soon becomes the toast of society. In the end however, John Merrick, The Elephant Man, finds that normality isn &rsquo;t something he can achieve, or that he even necessarily wants.</p>"
+            }
+        ]
+    },
+    {
+        "theater_name": "Touchstone Theatre",
+        "theater_id": 3820,
+        "venue_id": 4179,
+        "prods":
+        [
+            {
+                "title": "The Tin Woman",
+                "author": "",
+                "show_id": 1420,
+                "start_date": "2022-04-14",
+                "end_date": "2022-04-23",
+                "description": "<p>After receiving a heart transplant, Joy is plagued with uncertainty about her second chance at life until she meets her donor&rsquo;s family.Feb 24 - Mar 12More InfoBuy TicketStand and DeliverWhen Jamie Escalante is assigned to an inner-city school, his offbeat teaching methods and quirky humor motivate his math students to reach their full potential.</p>"
+            },
+            {
+                "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+                "author": "",
+                "show_id": 142,
+                "start_date": "2022-05-19",
+                "end_date": "2022-06-04",
+                "description": "<p>Attend the tale of a barber wrongly convicted and out for vengeance against the corrupt judge who sent him to prison and tore his family apart.</p>"
+            }
+        ]
+    },
+    {
+        "theater_name": "Rogers Children&rsquo;s Theatre",
+        "theater_id": 2275,
+        "venue_id": 2543,
+        "prods":
+        [
+            {
+                "title": "Red Velvet Cake War",
+                "author": "",
+                "show_id": 956,
+                "start_date": "2022-04-28",
+                "end_date": "2022-05-08",
+                "description": "<p>In this riotously funny Southern-fried comedy, the three Verdeen cousins—Gaynelle, Peaches, and Jimmie Wyvette—could not have picked a worse time to throw their family reunion. Their outrageous antics have delighted local gossips in the small town of Sweetgum (just down the road from Fayro) and the eyes of Texas are upon them, as their self-righteous Aunt LaMerle is quick to point out. Having &ldquo;accidentally&rdquo; crashed her minivan through the bedroom wall of her husband &rsquo;s girlfriend &rsquo;s doublewide, Gaynelle is one frazzled nerve away from a spectacular meltdown. Peaches, a saucy firebrand and the number one mortuarial cosmetologist in the tri-county area, is struggling to decide if it &rsquo;s time to have her long-absent trucker husband declared dead. And Jimmie Wyvette, the rough-around-the-edges store manager of Whatley &rsquo;s Western Wear, is resorting to extreme measures to outmaneuver a priss-pot neighbor for the affections of Sweetgum &rsquo;s newest widower. But the cousins can &rsquo;t back out of the reunion now. It &rsquo;s on, Gaynelle &rsquo;s hosting it, and Peaches and Jimmie Wyvette have decided that its success is the perfect way to prove Gaynelle &rsquo;s sanity to a skeptical court-appointed psychologist. Unfortunately, they face an uphill battle as a parade of wildly eccentric Verdeens gathers on the hottest day of July, smack-dab in the middle of Texas tornado season. Things spin hilariously out of control when a neighbor &rsquo;s pet devours everything edible, a one-eyed suitor shows up to declare his love, and a jaw-dropping high-stakes wager is made on who bakes the best red velvet cake. As this fast-paced romp barrels toward its uproarious climax, you &rsquo;ll wish your own family reunions were this much fun!</p>"
+            },
+            {
+                "title": "Sister Act",
+                "author": "",
+                "show_id": 247,
+                "start_date": "2022-06-02",
+                "end_date": "2022-06-19",
+                "description": "<p>Sister Act is the feel-good musical comedy smash based on the hit 1992 film that has audiences jumping to their feet! Featuring original music by Tony- and eight-time Oscar winner, Alan Menken (Newsies, Beauty and the Beast, Little Shop of Horrors), this uplifting musical was nominated for five Tony Awards, including Best Musical. When disco diva, Deloris Van Cartier, witnesses a murder, she is put in protective custody in the one place the cops are sure she won&rsquo;t be a found: a convent! Disguised as a nun, she finds herself at odds with both the rigid lifestyle and uptight Mother Superior. Using her unique disco moves and singing talent to inspire the choir, Deloris breathes new life into the church and community but, in doing so, blows her cover. Soon, the gang is giving chase, only to find them up against Deloris and the power of her newly found sisterhood. Filled with powerful gospel music, outrageous dancing and a truly moving story, Sister Act will leave audiences breathless. The cast is chock full of amazing roles for women of all ages, making this a perfect choice for high schools and community theatres. A sparkling tribute to the universal power of friendship, Sister Act is reason to REJOICE!</p>"
+            },
+            {
+                "title": "Oliver! JR.",
+                "show_id": 1421,
+                "start_date": "2022-07-01",
+                "end_date": "2022-07-02",
+                "description": "<p></p>"
+            },
+            {
+                "title": "The SpongeBob Musical",
+                "show_id": 1371,
+                "start_date": "2022-07-28",
+                "end_date": "2022-08-14",
+                "description": "<p>SpongeBob SquarePants: The Broadway Musical is a stage musical, co-conceived and directed by Tina Landau with songs by various artists and a book by Kyle Jarrow.</p>"
+            },
+            {
+                "title": "Just Playin&rsquo;",
+                "show_id": 1422,
+                "start_date": "2022-09-01",
+                "end_date": "2022-09-04",
+                "description": "<p>In Lee Franklin&rsquo;s 2021 New Play Festival People&rsquo;s Choice Award Winning play, a group of older gents and their wives celebrate 25 years of friendship and the &ldquo;joys&rdquo; of getting older as they gather over their favorite games: Poker and Mahjong.</p>"
+            },
+            {
+                "title": "Hands on a Hardbody",
+                "show_id": 1423,
+                "start_date": "2022-10-06",
+                "end_date": "2022-10-23",
+                "description": "<p>For 10 hard-luck Texans, a new lease on life is so close they can touch it. Under a scorching sun for days on end, armed with nothing but hope, humor and ambition, they&rsquo;ll fight to keep at least one hand on a brand-new truck in order to win it. In the hilarious, hard-fought contest that is Hands on a Hardbody only one winner can drive away with the American Dream. Inspired by the true events of the acclaimed 1997 documentary of the same name by S.R. Bindler, produced by Kevin Morris and Bindler.</p>"
+            },
+            {
+                "title": "Best Christmas Pageant Ever",
+                "show_id": 291,
+                "start_date": "2022-12-01",
+                "end_date": "2022-12-11",
+                "description": "<p>A delightful holiday comedy based on the best-selling young-adult book. In this hilarious Christmas classic, a couple struggling to put on a church Christmas pageant is faced with casting the Herdman kids--probably the most inventively awful kids in history. You won&rsquo;t believe the mayhem - and the fun - when the Herdmans collide with the Christmas story head on! This delightful comedy is adapted from the best-selling Young Adult book, and has become a holiday staple for groups across the United States!</p>"
+            }
+        ]
+    },
+    {
+        "theater_name": "Artistic Civic Theatre",
+        "theater_id": 737,
+        "venue_id": 1912,
+        "prods":
+        [
+            {
+                "title": "Singin&rsquo; in the Rain Jr.",
+                "author": "",
+                "show_id": 1424,
+                "start_date": "2022-06-15",
+                "end_date": "2022-06-20",
+                "description": "<p>The &ldquo;Greatest Movie Musical of All Time&rdquo; is faithfully and lovingly adapted by Broadway legends Betty Comden and Adolph Green, from their original award-winning screenplay in Singin&rsquo; in the Rain JR. Hilarious situations, snappy dialogue and a hit-parade score of Hollywood standards make Singin&rsquo; in the Rain JR. a guaranteed good time for performers and audience members alike.</p>"
+            },
+            {
+                "title": "Disney&rsquo;s Little Mermaid",
+                "author": "",
+                "show_id": 161,
+                "start_date": "2022-09-16",
+                "end_date": "2022-09-24",
+                "description": "<p>A placid ocean surface, broken by a rock or two, is disturbed by the sudden entrance of a gigantic ship as it sails into view. The pilot and crew are joined on deck by Eric, a royal prince dressed as a simple sailor, who speaks of his love for the sea as Grimsby, his proper British guardian, is politely seasick over the side of the ship. Grimsby urges Eric to abandon his sailing plans, return to land, and take up his father &rsquo;s crown, while Eric ignores him, desiring to remain on the ocean, where a man can be free. Suddenly, hearing a mysterious, beautiful song, Eric orders the ship onward: &ldquo;Follow that voice!&rdquo; At King Triton &rsquo;s beautiful undersea court, all of his marine subjects have gathered for a celebration. Dignified, commanding King Triton announces the anniversary of his victory over the evil Sea Witch Ursula, and yields the floor to his Master of Ceremonies, court composer Sebastian the crab, who has rehearsed Triton &rsquo;s seven daughters in a choral number</p>"
+            },
+            {
+                "title": "Arsenic and Old Lace",
+                "author": "",
+                "show_id": 44,
+                "start_date": "2022-10-20",
+                "end_date": "2022-10-29",
+                "description": "<p>Writer and notorious marriage detractor Mortimer Brewster falls for girl-next-door Elaine Harper and they tie the knot on Halloween. When the newlyweds return to their respective family homes to deliver the news, Brewster finds a corpse hidden in a window seat. With his eccentric aunts, disturbed uncle, and homicidal brother, he starts to realize that his family is even crazier than he thought.</p>"
+            },
+            {
+                "title": "A Christmas Carol",
+                "author": "",
+                "show_id": 1425,
+                "start_date": "2022-11-25",
+                "end_date": "2022-12-05",
+                "description": "<p>Adapted for our stage by Wes Phinney and Ward Satterfield, this Christmas classic recounts the story of Ebenezer Scrooge, an elderly miser who is visited by the ghost of his former business partner Jacob Marley and the spirits of Christmas Past, Present and Yet to Come. After their visits, Scrooge is transformed into a kinder, gentler man.</p>"
+            }
+        ]
+    },
+    {
+        "theater_name": "East Haddam Stage Company",
+        "theater_id": 543,
+        "venue_id": 8674,
+        "prods":
+        [
+            {
+                "title": "Osaki-san: William Gillette&rsquo;s Gentleman Valet",
+                "author": "",
+                "show_id": 1426,
+                "start_date": "2022-01-01",
+                "end_date": "2022-12-31",
+                "description": "<p>It was 1888 when Yukitaka and and his older brother Yukio came to visit the US from Japan. Yukio went on to become a leader in Japanese politics, and would give Washington D.C. the famous Cherry trees. Yukitaka, however, decided to stay. Discover the story of the elusive brother behind the famous politician. Osaki lived from the Victorian era through the turn of the century and both World Wars. Poignant and life affirming, here is what you may not know about Victorian actor William Gillette, creator of the role of Sherlock Holmes and the quiet soul who worked by his side. In this approximately 45 minute presentation Taku Hirai brings to life the amazing story of Yukitaka Osaki, the second son of a warrior-class family from Kanagawa Prefecture, Japan. Living history at its best!</p>"
+            }
+        ]
+    }
+]
