@@ -1,0 +1,205 @@
+[
+    {
+        "id": 10,
+        "name": "Fairbanks Shakespeare Theatre",
+        "city": "Fairbanks",
+        "state": 2,
+        "url": "http://fairbanksshakespeare.org/"
+    },
+    {
+        "id": 1935,
+        "name": "Oregon Shakespeare Festival",
+        "city": "Ashland",
+        "state": 38,
+        "url": "http://osfashland.org/"
+    },
+    {
+        "id": 2023,
+        "name": "Harrisburg Shakespeare Company ",
+        "city": "Harrisburg",
+        "state": 39,
+        "url": "http://gamuttheatre.org/"
+    },
+    {
+        "id": 4470,
+        "name": "Hudson Valley Shakespeare Festival",
+        "city": "Garrison",
+        "state": 33,
+        "url": "http://hvshakespeare.org/"
+    },
+    {
+        "id": 2710,
+        "name": "Shakespeare on the Sound",
+        "city": "Norwalk",
+        "state": 7,
+        "url": "http://www.shakespeareonthesound.org/"
+    },
+    {
+        "id": 1226,
+        "name": "Annapolis Shakespeare Company",
+        "city": "Annapolis",
+        "state": 21,
+        "url": "http://www.annapolisshakespeare.org/"
+    },
+    {
+        "id": 2810,
+        "name": "Orlando Shakes",
+        "city": "Orlando",
+        "state": 10,
+        "url": "http://orlandoshakes.org/"
+    },
+    {
+        "id": 4477,
+        "name": "Vallejo Shakespeare in the Park",
+        "city": "Vallejo",
+        "state": 5,
+        "url": "https://www.vallejoshakespeare.org/"
+    },
+    {
+        "id": 1785,
+        "name": "Lake Tahoe Shakespeare Festival",
+        "city": "Incline Village",
+        "state": 29,
+        "url": "http://laketahoeshakespeare.com/"
+    },
+    {
+        "id": 2898,
+        "name": "Shakespeare Tavern Playhouse",
+        "city": "Atlanta",
+        "state": 11,
+        "url": "http://www.shakespearetavern.com/"
+    },
+    {
+        "id": 3693,
+        "name": "Oklahoma Shakespeare in the Park",
+        "city": "Oklahoma City",
+        "state": 37,
+        "url": "http://www.oklahomashakespeare.com/"
+    },
+    {
+        "id": 2305,
+        "name": "Utah Shakespeare Festival",
+        "city": "Cedar City",
+        "state": 45,
+        "url": "http://www.bard.org/"
+    },
+    {
+        "id": 4310,
+        "name": "Shrunken Shakespeare Company",
+        "city": "New York",
+        "state": 33,
+        "url": "https://shrunkenshakespeare.com/"
+    },
+    {
+        "id": 4314,
+        "name": "New York Shakespeare Exchange",
+        "city": "New York",
+        "state": 33,
+        "url": "https://nysx.org/"
+    },
+    {
+        "id": 4331,
+        "name": "Arkansas Shakespeare Theatre",
+        "city": "Conway",
+        "state": 4,
+        "url": "https://www.arkshakes.com"
+    },
+    {
+        "id": 29,
+        "name": "Alabama Shakespeare Festival",
+        "city": "Montgomery",
+        "state": 1,
+        "url": "http://www.asf.net/"
+    },
+    {
+        "id": 4355,
+        "name": "Shakespeare in the Vines",
+        "city": "Temecula",
+        "state": 5,
+        "url": "http://www.shakespeareinthevines.org/"
+    },
+    {
+        "id": 4484,
+        "name": "Shakespeare by the Sea",
+        "city": "San Pedro",
+        "state": 5,
+        "url": "http://www.shakespearebythesea.org/"
+    },
+    {
+        "id": 3490,
+        "name": "Actors Shakespeare Company",
+        "city": "Hoboken",
+        "state": 31,
+        "url": "http://www.ascnj.org/"
+    },
+    {
+        "id": 2609,
+        "name": "Colorado Shakespeare Festival",
+        "city": "Boulder",
+        "state": 6,
+        "url": "http://www.coloradoshakes.org/"
+    },
+    {
+        "id": 2731,
+        "name": "Folger Shakespeare Library",
+        "city": "Washington",
+        "state": 9,
+        "url": "https://www.folger.edu/"
+    },
+    {
+        "id": 2742,
+        "name": "Shakespeare Theatre Company",
+        "city": "Washington",
+        "state": 9,
+        "url": "http://www.shakespearetheatre.org/"
+    },
+    {
+        "id": 3174,
+        "name": "Chesapeake Shakespeare Company Theater",
+        "city": "Baltimore",
+        "state": 21,
+        "url": "https://www.chesapeakeshakespeare.com/"
+    },
+    {
+        "id": 3238,
+        "name": "Michigan Shakespeare Festival",
+        "city": "Jackson",
+        "state": 23,
+        "url": "http://www.michiganshakespearefestival.com/"
+    },
+    {
+        "id": 2951,
+        "name": "Idaho Shakespeare Festival",
+        "city": "Boise",
+        "state": 13,
+        "url": "http://www.idahoshakespeare.org/"
+    },
+    {
+        "id": 4141,
+        "name": "Young Shakespeare Players",
+        "city": "Madison",
+        "state": 50,
+        "url": "http://youngshakespeareplayers.org/"
+    },
+    {
+        "id": 4446,
+        "name": "Madison Shakespeare Company",
+        "city": "Madison",
+        "state": 50,
+        "url": "http://madisonshakespeare.org"
+    },
+    {
+        "id": 4395,
+        "name": "The Pigeon Creek Shakespeare Company",
+        "city": "Grand Haven",
+        "state": 23,
+        "url": "https://www.pcshakespeare.com/"
+    },
+    {
+        "id": 4433,
+        "name": "Nashville Shakespeare Festival",
+        "city": "Nashville",
+        "state": 43,
+        "url": "http://www.nashvilleshakes.org/"
+    }
+]
